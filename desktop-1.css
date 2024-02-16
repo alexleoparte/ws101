@@ -1,0 +1,354 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-1-LJs {
+  width: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #636363;
+}
+.desktop-1-LJs .auto-group-njpq-wpT {
+  margin-bottom: 14.6rem;
+  width: 166.8rem;
+  height: 161rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-LJs .auto-group-njpq-wpT .navigation-FMH {
+  width: 70.9rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 64.7rem;
+  top: 8.4rem;
+  display: flex;
+  align-items: center;
+}
+.desktop-1-LJs .auto-group-njpq-wpT .navigation-FMH .home-6Mu {
+  margin-right: 8.5rem;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1;
+  color: rgba(190, 227, 186, 0.7294117808);
+  font-family: Luckiest Guy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-LJs .auto-group-njpq-wpT .navigation-FMH .about-wNX {
+  margin-right: 8.6rem;
+  cursor: pointer;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1;
+  color: rgba(190, 227, 186, 0.7294117808);
+  font-family: Luckiest Guy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-LJs .auto-group-njpq-wpT .navigation-FMH .works-qyh {
+  margin-right: 7.5rem;
+  cursor: pointer;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1;
+  color: rgba(190, 227, 186, 0.7294117808);
+  font-family: Luckiest Guy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-LJs .auto-group-njpq-wpT .navigation-FMH .contact-xHd {
+  cursor: pointer;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1;
+  color: rgba(190, 227, 186, 0.7294117808);
+  font-family: Luckiest Guy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-LJs .auto-group-njpq-wpT .home-sQb {
+  width: 155.3rem;
+  height: 94.2rem;
+  position: absolute;
+  left: 10.9rem;
+  top: 0;
+}
+.desktop-1-LJs .auto-group-njpq-wpT .home-sQb .hi-im-o3M {
+  width: 6.7rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 19rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.195;
+  color: #bee3ba;
+  font-family: Akaya Kanadaka, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-LJs .auto-group-njpq-wpT .home-sQb .alexis-a-leoparte-g79 {
+  width: 73rem;
+  height: 10.9rem;
+  position: absolute;
+  left: 0;
+  top: 22.4rem;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.69;
+  color: #bee3ba;
+  font-family: Rammetto One, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-LJs .auto-group-njpq-wpT .home-sQb .as-an-it-student-which-involves-rigorous-coursework-in-various-it-disciplines-i-have-gained-practical-experience-through-projects-or-activities-given-by-our-professors-and-personal-endeavors-it-honed-my-ability-to-analyze-problems-troubleshoot-issues-and-develop-effective-solutions-which-are-essential-skills-in-the-it-field-my-learning-in-the-field-of-it-does-not-stop-here-i-still-need-to-engage-in-continuous-learning-to-stay-updated-with-the-latest-technologies-and-trends-to-ensure-my-skills-remain-relevant-aTR {
+  width: 73.6rem;
+  height: 17rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 38.2rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-LJs .auto-group-njpq-wpT .home-sQb .backgrounderaser20240214205802674-1-Fhy {
+  width: 94.3rem;
+  height: 94.2rem;
+  position: absolute;
+  left: 61rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-LJs .auto-group-njpq-wpT .about-me-N1u {
+  width: 144rem;
+  height: 88.1rem;
+  position: absolute;
+  left: 0;
+  top: 68.3rem;
+  background-color: #ffffff;
+}
+.desktop-1-LJs .auto-group-njpq-wpT .about-me-N1u .frame-1-sjM {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  background-color: #61718a;
+}
+.desktop-1-LJs .auto-group-njpq-wpT .about-me-N1u .frame-1-sjM .about-me-1Km {
+  width: 28.7rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 54.6rem;
+  top: 8.4rem;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #fedc97;
+  font-family: Luckiest Guy, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-LJs .auto-group-njpq-wpT .about-me-N1u .frame-1-sjM .rectangle-2-abtm-7No {
+  width: 67rem;
+  height: 56.3rem;
+  position: absolute;
+  left: 67.1rem;
+  top: 19.2rem;
+  background-color: #d9d9d9;
+  border-radius: 5rem;
+}
+.desktop-1-LJs .auto-group-njpq-wpT .about-me-N1u .frame-1-sjM .backgrounderaser20240214210547388-1-Qsh {
+  width: 63.3rem;
+  height: 63rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 11.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-LJs .auto-group-njpq-wpT .about-me-N1u .frame-1-sjM .nothing-is-very-interesting-to-me-im-also-not-very-good-at-coding-because-i-dont-have-any-courses-i-want-to-take-i-took-it-because-its-said-to-be-in-demand-the-strand-i-took-in-senior-high-was-ict-thats-also-one-of-the-reasons-why-i-did-it-even-though-i-didnt-know-anything-at-that-time-even-making-powerpoint-and-documents-but-they-said-i-could-learn-that-too-then-all-my-hobbies-are-on-my-phone-reading-on-wattpad-and-webtoon-and-watching-tv-series-and-movies-so-when-im-not-doing-anything-important-i-spend-all-my-time-there-i7h {
+  width: 55rem;
+  height: 43.1rem;
+  position: absolute;
+  left: 73.1rem;
+  top: 25.8rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.495;
+  color: #909090;
+  font-family: Kanit, 'Source Sans Pro';
+}
+.desktop-1-LJs .works-9sD {
+  margin: 0rem 10.5rem 15.8rem 10.4rem;
+  width: calc(100% - 20.9rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-LJs .works-9sD .works-4zB {
+  margin: 0rem 6.4rem 13.1rem 0rem;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #bee3ba;
+  font-family: Luckiest Guy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-LJs .works-9sD .auto-group-r9bv-yrF {
+  margin-bottom: 5.2rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-LJs .works-9sD .auto-group-r9bv-yrF .item-2024-02-14-1-1-iYw {
+  margin-right: 19rem;
+  width: 51rem;
+  height: 34.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.desktop-1-LJs .works-9sD .auto-group-r9bv-yrF .item-2024-02-14-1-cuD {
+  width: 53.1rem;
+  height: 34.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.desktop-1-LJs .works-9sD .auto-group-rsdh-8sZ {
+  margin: 0rem 13.8rem 0rem 12.8rem;
+  width: calc(100% - 26.6rem);
+  height: 5.9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-LJs .works-9sD .auto-group-rsdh-8sZ .auto-group-npyx-eL7 {
+  margin-right: 45.5rem;
+  width: 25.5rem;
+  height: 100%;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.0975;
+  color: #bee3ba;
+  font-family: Manjari, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #1e1e1e;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.desktop-1-LJs .works-9sD .auto-group-rsdh-8sZ .auto-group-wnet-vHd {
+  width: 25.5rem;
+  height: 100%;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.0975;
+  color: #bee3ba;
+  font-family: Manjari, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #1e1e1e;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.desktop-1-LJs .contact-CF9 {
+  box-sizing: border-box;
+  padding: 12.7rem 23.5rem 12.6rem 23.3rem;
+  width: 100%;
+  height: 105.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #61718a;
+  flex-shrink: 0;
+}
+.desktop-1-LJs .contact-CF9 .contact-us-JZ5 {
+  margin-bottom: 3.6rem;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #fedc97;
+  font-family: Luckiest Guy, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-LJs .contact-CF9 .auto-group-7nit-ESj {
+  margin: 0rem 0.1rem 3.1rem 0rem;
+  box-sizing: border-box;
+  padding: 2.1rem 3.7rem 1.4rem 3.7rem;
+  width: 98.8rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.495;
+  color: #b4b4b4;
+  font-family: Kanit, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #ffffff;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.desktop-1-LJs .contact-CF9 .auto-group-ixbm-Urs {
+  margin: 0rem 0.1rem 3.1rem 0rem;
+  box-sizing: border-box;
+  padding: 2.1rem 4.9rem 1.4rem 4.9rem;
+  width: 98.8rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.495;
+  color: #b4b4b4;
+  font-family: Kanit, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #ffffff;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.desktop-1-LJs .contact-CF9 .auto-group-t5cs-799 {
+  margin: 0rem 0rem 7.6rem 0.1rem;
+  box-sizing: border-box;
+  padding: 2.1rem 4.8rem;
+  width: 98.8rem;
+  height: 38.2rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.495;
+  color: #b4b4b4;
+  font-family: Kanit, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #ffffff;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.desktop-1-LJs .contact-CF9 .socmed-kC7 {
+  margin-right: 0.0061rem;
+  width: 40.0939rem;
+  height: 4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
